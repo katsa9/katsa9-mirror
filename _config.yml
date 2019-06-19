@@ -1,5 +1,5 @@
-url: https://katsa9.github.io
-baseurl: /katsa9.github.io/
+url: "https://katsa9.github.io"
+baseurl: ""
 
 # Site settings
 title: Kathleen Brand
@@ -63,3 +63,14 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Exclude these files from production site
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Dockerfile
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - Vagrantfile
