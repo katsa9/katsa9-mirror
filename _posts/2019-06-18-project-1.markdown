@@ -1,0 +1,14 @@
+---
+title: MyReads
+subtitle: A book tracking application
+layout: default
+modal-id: 1
+date: 2019-06-18
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+project-date: June 2019
+tech: React, HTML, CSS and JSX
+demo: https://katsa9-my-reads.netlify.com
+description: This project is a book tracking application that allows you to manage your books. It consists of three bookshelves namely, Want to read, Currently reading and Read. The application allows you to search for books and then assign them to one of the above bookshelves. You can also move books from one shelf to another or remove them from the shelf entirely.
+---

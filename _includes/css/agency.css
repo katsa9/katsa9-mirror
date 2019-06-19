@@ -356,6 +356,11 @@ section h3.section-subheading {
     text-transform: none;
 }
 
+.demo-link {
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
@@ -376,7 +381,7 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba(254,209,54,.9); /* Fallback when no plugin support */
+    background: rgba(118, 194, 177, 0.603); /* Fallback when no plugin support */
     background: rgba({{ site.data.template.color.primary | hex_to_rgb | join: ',' }}, .9);
 }
 
