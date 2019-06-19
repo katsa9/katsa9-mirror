@@ -19,12 +19,12 @@ body {
 }
 
 p {
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.75;
 }
 
 p.large {
-    font-size: 16px;
+    font-size: 18px;
 }
 
 a,
@@ -125,7 +125,7 @@ fieldset[disabled] .btn-primary.active {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-size: 18px;
-    font-weight: 700;
+    font-weight: 400;
     color: #fff;
     background-color: #{{ site.data.template.color.primary }};
 }
@@ -284,42 +284,44 @@ header .intro-text {
 }
 
 header .intro-text .intro-lead-in {
-    margin-bottom: 25px;
-    font-family: {{ site.data.template.font.secondary }};
+    margin-bottom: 30px;
+    font-family: {{ site.data.template.font.primary }};
     font-size: 20px;
-    font-style: italic;
     line-height: 22px;
+    font-weight: 200;
 }
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;
-    text-transform: uppercase;
+    color: rgba(0, 0, 0, 0.603);
+    /* text-transform: uppercase; */
     font-family: {{ site.data.template.font.primary }};
     font-size: 30px;
-    font-weight: 700;
+    /* font-weight: 700; */
     line-height: 50px;
 }
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
-        padding-bottom: 200px;
+        padding-top: 200px;
+        padding-bottom: 300px;
     }
 
     header .intro-text .intro-lead-in {
-        margin-bottom: 25px;
-        font-family: {{ site.data.template.font.secondary }};
-        font-size: 40px;
-        font-style: italic;
+        margin-bottom: 30px;
+        font-size: 30px;
         line-height: 40px;
+        font-family: {{ site.data.template.font.primary }};
+        font-weight: 200;
     }
 
     header .intro-text .intro-heading {
         margin-bottom: 50px;
-        text-transform: uppercase;
+        /* text-transform: uppercase; */
         font-family: {{ site.data.template.font.primary }};
+        
         font-size: 75px;
-        font-weight: 700;
+        /* font-weight: 700; */
         line-height: 75px;
     }
 }
@@ -630,6 +632,14 @@ section h3.section-subheading {
     .timeline>li.timeline-inverted>.timeline-panel {
         padding: 0 100px 20px 20px;
     }
+}
+.about-me {
+    margin-top: 30px;
+}
+
+.about-me li {
+    line-height: 1.75;
+    font-size: 16px;
 }
 
 .team-member {
