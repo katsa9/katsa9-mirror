@@ -2,10 +2,10 @@
 title: BulkSMS.com
 subtitle: The BulkSMS.com client portal
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2019-06-18
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: bulksms.png
+thumbnail: bulksms-t.png
 alt: image-alt
 project-date: June 2019
 tech: AngularJS, HTML, CSS and Typescript as well as JSON, Perl(Mason), Java (Spring) on the backend
