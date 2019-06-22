@@ -19,7 +19,7 @@ people:
       url: https://github.com/katsa9
     - title: linkedin
       url: https://www.linkedin.com/in/kathleen-j-brand	
-  skills: 
+  techskills: 
       - Java 
       - ReactJS
       - AngularJs
@@ -29,7 +29,17 @@ people:
       - CSS 
       - SQL
       - Git
-
+      - Balsamiq
+      - Technical Writing
+      - UX Design
+      - Object Oriented Programming
+      - Sketch
+  softskills: 
+      - Mentoring
+      - Adaptability
+      - Time Management
+      - Creativity Skills
+      - Teamwork
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
