@@ -193,11 +193,11 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-toggle {
     border-color: #{{ site.data.template.color.primary }};
-    background-color: #{{ site.data.template.color.primary }};
+    background-color: #333;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #fff;
+    background-color: rgb(31, 30, 30);
 }
 
 .navbar-default .navbar-toggle:hover,
@@ -293,7 +293,7 @@ header .intro-text .intro-lead-in {
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;
-    color: rgba(0, 0, 0, 0.603);
+    color: rgba(0, 0, 0, 0.753);
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
     font-size: 30px;
     line-height: 50px;
@@ -338,7 +338,7 @@ section h3.section-subheading {
     font-size: 16px;
     font-style: italic;
     font-weight: 400;
-    color: #fff;
+    color: #{{ site.data.template.color.primary }};
 }
 
 @media(min-width:768px) {
@@ -496,7 +496,7 @@ section h3.section-subheading {
     left: 0;
     width: 40px;
     height: 40px;
-    margin-left: 0;
+    margin-left: 20px;
     border: 7px solid #f1f1f1;
     border-radius: 100%;
     text-align: center;
@@ -730,6 +730,10 @@ section#contact:-ms-input-placeholder {
 
 section#contact .text-danger {
     color: #e74c3c;
+}
+
+section#contact .section-subheading {
+    color: #fff;
 }
 
 footer {
