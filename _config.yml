@@ -18,8 +18,10 @@ people:
     - title: github
       url: https://github.com/katsa9
     - title: linkedin
-      url: https://www.linkedin.com/in/kathleen-j-brand	
-  skills: 
+      url: https://www.linkedin.com/in/kathleen-j-brand
+    - title: medium
+      url: https://medium.com/@kathleen.brand2
+  techskills: 
       - Java 
       - ReactJS
       - AngularJs
@@ -29,22 +31,26 @@ people:
       - CSS 
       - SQL
       - Git
-
+      - Balsamiq
+      - Technical Writing
+      - UX Design
+      - Object Oriented Programming
+      - Sketch
+  softskills: 
+      - Mentoring
+      - Adaptability
+      - Time Management
+      - Creativity Skills
+      - Teamwork
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: https://twitter.com/KathleenJBrand
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/katsa9
   - title: medium
-    url:
+    url: https://medium.com/@kathleen.brand2
 
 # Postal address (add as many lines as necessary)
 address:

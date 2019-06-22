@@ -1,6 +1,6 @@
 ---
 title: BulkSMS.com
-subtitle: The BulkSMS.com client portal
+subtitle: The BulkSMS.com client portal and website
 layout: default
 modal-id: 2
 date: 2019-06-18
@@ -9,6 +9,6 @@ thumbnail: bulksms-t.png
 alt: image-alt
 project-date: June 2019
 tech: AngularJS, HTML, CSS and Typescript as well as JSON, Perl(Mason), Java (Spring) on the backend
-demo: https://www.bulksms.com
-description: Some description
+demo: https://www.bulksms.com/account
+description: I have been working on the BulkSMS client portal and implemented a number of end-to-end features. To view the application you will need to create a BulkSMS account on www.bulksms.com and then navigate to the demo link above we have not officially released the new web application yet. On the website side, I have been responsible for the dynamic functionality (not the design or implementation of visual elements). Have a look at the pricing page for an example.
 ---
