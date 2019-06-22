@@ -11,5 +11,5 @@ project-date: June 2019
 tech: React, HTML, CSS and JSX
 demo: https://katsa9-my-reads.netlify.com
 code: https://github.com/katsa9/MyReads
-description: This project is a book tracking application that allows you to manage your books. It consists of three bookshelves namely, Want to read, Currently reading and Read. The application allows you to search for books and then assign them to one of the above bookshelves. You can also move books from one shelf to another or remove them from the shelf entirely.
+description: This project is a book tracking application that allows you to manage your books. It consists of three bookshelves namely, Want to read, Currently reading and Read. The application allows you to search for books and then assign them to one of the above bookshelves. You can also move books from one shelf to another or remove them from the shelf entirely. The aim of this project was to learn the basics of react, react-router and state management.
 ---
