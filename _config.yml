@@ -3,7 +3,7 @@ baseurl: ""
 
 # Site settings
 title: Kathleen Brand
-email: your-email@domain.com
+email: coderkathleen@gmail.com
 description: "This is my personal/portfolio site cv thing. Feel free to look around and get in touch. I am a full-stack developer passionate about UX and creating easy to maintain elegant applications."
 
 
@@ -23,8 +23,8 @@ people:
       url: https://medium.com/@kathleen.brand2
   techskills: 
       - Java 
-      - ReactJS
-      - AngularJs
+      - React
+      - AngularJS
       - Typescript
       - Javascript
       - HTML
@@ -33,15 +33,33 @@ people:
       - Git
       - Balsamiq
       - Technical Writing
-      - UX Design
       - Object Oriented Programming
       - Sketch
+      - JUnit
+      - Jasmine
+      - Solution Design
+      - Eclipse
   softskills: 
+      - Software Engineering
       - Mentoring
       - Adaptability
       - Time Management
       - Creativity Skills
       - Teamwork
+      - UX Design
+      - Kanban
+  exposureskills: 
+      - Docker
+      - AWS (Amazon Web Services)
+      - Maven
+      - HornetQ
+      - ArcGIS
+      - Bitbucket
+      - JIRA
+      
+
+
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

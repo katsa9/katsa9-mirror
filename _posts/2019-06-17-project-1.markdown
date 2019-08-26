@@ -3,7 +3,7 @@ title: MyReads
 subtitle: A book tracking application
 layout: default
 modal-id: 1
-date: 2019-06-18
+date: 2019-08-17
 img: myreads.png
 thumbnail: myreads-t.jpg
 alt: image-alt

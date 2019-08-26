@@ -29,5 +29,16 @@
                     {% endfor %}
                 </ul>
             </div>
+            <br>
+            <div class="container-fluid text-center">
+                <h3>Tech I have had exposure to</h3>
+                <ul>
+                    {% for eskill in site.people[0].exposureskills %}
+                    <li>
+                       {{eskill}}
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
     </div>
 </section>

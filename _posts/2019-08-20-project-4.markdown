@@ -1,0 +1,15 @@
+---
+title: Simplified Twitter
+subtitle: A simplified twitter timeline
+layout: default
+modal-id: 3
+date: 2019-08-20
+img: twitter.png
+thumbnail: twitter-t.png
+alt: image-alt
+project-date: July 2019
+tech: React, Redux, HTML, CSS
+demo: https://katsa9-simplified-twitter.netlify.com/
+code: https://github.com/katsa9/simplifiedTwitter
+description: This project is a very simplified twitter clone where a user can like a tweet, add a tweet or reply to a tweet. The user's timeline then updates accordingly. The aim of this project was to learn the basics of React with Redux.
+---

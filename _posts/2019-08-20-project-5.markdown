@@ -1,0 +1,15 @@
+---
+title: Would you Rather
+subtitle: A question game application
+layout: default
+modal-id: 4
+date: 2019-08-20
+img: wyr.png
+thumbnail: would-you-rather.png
+alt: image-alt
+project-date: August 2019
+tech: React, Redux, HTML, CSS, Bootstrap 4 
+demo: https://katsa9-would-you-rather.netlify.com/
+code: https://github.com/katsa9/would-you-rather/
+description: This project is a question game application that allows you to answer as well as add questions of the form - Would you rather Fight Thanos OR Fight Voldemort. The application also has a leaderboard where users are ranked according to the sum of questions they have asked as well as answered. The application also mocks a logging in process so that it behaves correctly depending on who is logged in. The aim of this project was to practice React with Redux for state management. I also decided to include styling using Bootstrap 4.
+---
